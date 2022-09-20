@@ -1,0 +1,7 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "consistency_plus:blocks/cut_obsidian",
+    "front": "alloy_forgery:blocks/obsidian_forge_controller_front",
+    "side": "consistency_plus:blocks/cut_obsidian"
+  }
